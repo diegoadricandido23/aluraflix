@@ -1,0 +1,22 @@
+{
+  "categorias": [
+      {
+          "id": 1,
+          "titulo" : "Front End",
+          "cor" : "#6BFD1FF",
+          "link_extra" : {
+            "text" : "Formação Front End Alura",
+            "url" : "http://www.alura.com.br/cursos-online-front-end"
+        }
+      },
+      {
+        "id": 2,
+        "titulo" : "Back End",
+        "cor" : "#00C86F",
+        "link_extra" : {
+          "text" : "Cursos de Back End na Alura",
+          "url" : "http://www.alura.com.br/cursos-online-programacao"
+      }
+    }
+  ]
+}
